@@ -1,0 +1,23 @@
+{
+  "name": "cli-basic-express-knex",
+  "version": "1.0.0",
+  "bin": {
+    "mycrud-create": "./bin/index.js"
+  },
+  "description": "CLI para construir a estrutura inicial de uma aplicação com nodejs, express, body-parser, dotenv, knex, sqlite3, jsonwebtoken, cors e bcrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBraucks/CLI-Basic-Express-Knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielBraucks/CLI-Basic-Express-Knex/issues"
+  },
+  "homepage": "https://github.com/GabrielBraucks/CLI-Basic-Express-Knex#readme"
+}
